@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEYAFIl3aqCrg/profile-displaybackgroundimage-shrink_350_1400/0/1709991773254?e=1715212800&v=beta&t=rLJI2A6bFzFwE8IbkuAWB27D7O4nPD9QTpwFr_b2JM8)
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">The Language of Numbers: Translating Data into Insights</h3>
 <img align="right" alt="Coding" width="400" src="https://static2.bigstockphoto.com/6/3/2/large2/236471767.jpg">
