@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">The Language of Numbers: Translating Data into Insights</h3>
+<img align="right" alt="Coding" width="400" src="https://static2.bigstockphoto.com/6/3/2/large2/236471767.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjai17&label=Profile%20views&color=0e75b6&style=flat" alt="sunjai17" /> </p>
 
